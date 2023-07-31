@@ -26,7 +26,7 @@ The MangoRNASeqPipeline consists of the following modular Nextflow scripts:
 
 1. **preprocess.nf**: This script handles the initial data preprocessing stage, including quality control, read trimming, filtering, and alignment of the sequenced reads to the reference genome.
 
-2. **quantify.nf**: The "quantify.nf" script performs gene expression quantification using Salmon v1.10.1 or Kallisto (version X.X.X), enabling accurate estimation of transcript abundances for each sample.
+2. **quantify.nf**: The "quantify.nf" script performs gene expression quantification using Salmon v1.10.1, enabling accurate estimation of transcript abundances for each sample.
 
 3. **differential_expression.nf**: The central component of the pipeline, this script employs the well-established DESeq2 (version X.X.X) tool to perform differential expression analysis. By statistically comparing gene expression levels between treatment groups and their corresponding controls, it facilitates the identification of significantly differentially expressed genes.
 
