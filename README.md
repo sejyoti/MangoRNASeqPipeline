@@ -1,3 +1,12 @@
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Conda](https://img.shields.io/badge/-Conda-4B8BBE?style=flat&logo=conda-forge&logoColor=white)
+![Nextflow](https://img.shields.io/badge/-Nextflow-E8831D?style=flat&logo=nextflow&logoColor=white)
+![Bioinformatics](https://img.shields.io/badge/-Bioinformatics-41A043?style=flat)
+![Documentation](https://img.shields.io/badge/-Documentation-0C5176?style=flat)
+![Technical%20Writing](https://img.shields.io/badge/-Technical%20Writing-0C5176?style=flat)
+![Open%20Source](https://img.shields.io/badge/-Open%20Source-26D198?style=flat)
+
+
 # MangoRNASeqPipeline
  The pipeline consists of three modular Nextflow scripts, each dedicated to a specific step of the RNA-seq analysis workflow. 
 
