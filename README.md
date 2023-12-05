@@ -2,7 +2,6 @@
  The pipeline consists of three modular Nextflow scripts, each dedicated to a specific step of the RNA-seq analysis workflow. 
 
 
-![Nextflow Logo](nextflow_logo.svg)
 
 The "MangoRNASeqPipeline" is a Nextflow-based bioinformatics pipeline designed for the comprehensive analysis of mango transcriptomic data obtained from RNA sequencing (RNA-seq) experiments. The pipeline aims to identify differentially expressed genes in mango samples subjected to different treatments and controls, providing valuable insights into the molecular mechanisms underlying specific physiological processes in mango plants.
 
